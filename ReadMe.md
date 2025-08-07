@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Marketing,Business Analysis**
 
-- 💬 Ask me about **AI/ML, Python, Flutter, Databases**
+- 💬 Ask me about **AI/ML, Python, Flutter, Databases, Swift**
 
 - 📫 How to reach me **triygoc@icloud.com**
 
