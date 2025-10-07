@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Visitors, I'm Israel Oladeji Israel Oladeji</h1>
+<h1 align="center">Hi 👋 Visitors, I'm Israel Oladeji</h1>
 <h3 align="center">Computer Science senior at Purdue University Indianapolis with a strong foundation in AI, deep learning, and software development.<br>Experienced in machine learning, robotics, and computer vision, with research contributions in Vision Transformers, MLP-Mixer architectures, and mutual learning for news classification.<br>Professional experience in mentorship, leadership, and process optimization at Amazon, as well as technical recruitment at Networks Connect.<br>Skilled in Python, C++, Java, TensorFlow, PyTorch, and Git, with hands-on experience in Linux environments and ROS.<br>Passionate about innovation, problem-solving, and automation, aiming to apply technical expertise to real-world AI and robotics challenges.<br>Actively preparing to launch a tech startup within the next three years, focusing on AI-driven solutions and automation technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ca3de&label=Profile%20views&color=0e75b6&style=flat" alt="ca3de" /> </p>
